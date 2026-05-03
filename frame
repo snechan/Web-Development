@@ -1,0 +1,11 @@
+<html DOCTYPE!>
+<head>
+<title> Frameset </title>
+<frameset rows="30%,70%">
+<frame src="grocerybill.html">
+<frameset cols="33%,33%,34%">
+<frame src="grocerybill.html">
+<frame src="grocerybill.html">
+<frame src="grocerybill.html">
+</head>
+</html>
