@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<title>Submit page</title>
+<style>
+body{
+	text-align="center"
+}
+
+h3 {
+	color:green;
+	font-size:50px;
+	text-align:center;
+}
+
+
+</style>
+</head>
+<body>
+<center><h3>Register successfuly</h3></center>
+</body>
+</html>
